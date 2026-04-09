@@ -1,0 +1,5 @@
+{
+  "name": "Google Sheets Dashboard",
+  "description": "Dashboard automático conectado a uma planilha do Google Sheets.",
+  "requestFramePermissions": []
+}
